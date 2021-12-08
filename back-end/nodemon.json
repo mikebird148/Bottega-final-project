@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "mikebird148",
+        "DB_PASSWORD": "Tester1",
+        "DB_NAME": "mern-bottega-project",
+        "GOOGLE_API_KEY": "AIzaSyCx0LzwqVfLO8lAMIlpG3WpERd6CSdwFms",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
